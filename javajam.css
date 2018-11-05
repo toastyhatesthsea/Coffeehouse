@@ -9,7 +9,7 @@ body { background-color: #FCEBB6;
       font-family: Verdana, Arial, sans-serif;
 	  background-image: url(background.gif);
 }
-#wrapper { background-color: #FEF6C2;
+#wrapper { background-color:#231814;
            width: 80%;
            margin-right: auto;
 		   margin-left: auto;
@@ -47,6 +47,11 @@ nav a:visited
 nav a:hover
 {
 	color: #CC9933;
+}
+nav ul
+{
+	list-style: none;
+	padding-left: 0px;
 }
 footer { background-color: #D2B48C;
        font-size: small;
