@@ -131,6 +131,7 @@ img { padding-left: 10px;
 #heroroad
 {
 	background-image: url(heroroad.jpg);
+	background-repeat: no-repeat;
 	background-size: 100%;
 	height: 250px;
 }
@@ -138,6 +139,7 @@ img { padding-left: 10px;
 #heromugs
 {
 	background-image: url(heromugs.jpg);
+	background-repeat: no-repeat;
 	background-size: 100%;
 	height: 250px;
 }
@@ -145,6 +147,7 @@ img { padding-left: 10px;
 #heroguitar
 {
 	background-image: url(heroguitar.jpg);
+	background-repeat: no-repeat;
 	background-size: 100%;
 	height: 250px;
 }
