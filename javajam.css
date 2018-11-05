@@ -29,13 +29,25 @@ h1 { padding-top: 45px;
 	font-size: 3em; 
 }
 nav { 
-  
+  float: left;
+  width: 200px;
   text-align: center; 
      font-weight: bold; 
 	 font-size: 1.5em;
 	 padding-top: 10px;
 }
 nav a { text-decoration: none; }
+nav a:link{
+	color: #FEF6C2;
+}
+nav a:visited
+{
+	color: #D2B48C;
+}
+nav a:hover
+{
+	color: #CC9933;
+}
 footer { background-color: #D2B48C;
        font-size: small;
 	   font-style: italic;
